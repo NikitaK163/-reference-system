@@ -1,7 +1,8 @@
-/**
- * Created by Вова on 13.11.2016.
- */
+
 import java.lang.String;
 public class Department {
-    public String name,chief;
+    // НАЗВАНИЕ ОТДЕЛА
+    public String name;
+    // НАЧАЛЬНИК ОТДЕЛА
+    public String chief;
 }
